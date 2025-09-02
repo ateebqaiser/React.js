@@ -1,0 +1,22 @@
+.about-options{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+
+.about-options button{
+    padding: 4px 30px;
+    border-radius: 14px;
+}
+
+.about-data img{
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+}
+
+.about-data{
+    justify-self: center;
+    margin-top: 140px;
+    justify-items: center;
+}
